@@ -10,7 +10,6 @@
 ```bash
 node -v                      # يجب أن يكون 22.5 أو أحدث
 cp .env.example .env         # عدّل القيم
-npm run accounts             # إعادة ضبط admin وauditor1 في قاعدة قائمة
 npm start                    # http://127.0.0.1:3000
 npm test                     # اختبارات التكامل (28)
 ```
